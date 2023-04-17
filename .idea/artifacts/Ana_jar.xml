@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Ana:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Ana_jar</output-path>
+    <root id="archive" name="Ana.jar">
+      <element id="module-output" name="Ana" />
+    </root>
+  </artifact>
+</component>
